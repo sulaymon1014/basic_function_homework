@@ -3,3 +3,5 @@
 # Create function arguments a.
 
 # Return the value a.
+
+print(main("a"))
